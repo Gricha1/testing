@@ -1,0 +1,3 @@
+[submodule "planning_alg/POLAMP_sample_factory_"]
+	path = planning_alg/POLAMP_sample_factory_
+	url = https://github.com/Gricha1/POLAMP_sample_factory_.git
